@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https//PrasadParad.github.io/Netflix-React-App/static/css/main.c11c1b70.chunk.css",
+    "main.js": "/https//PrasadParad.github.io/Netflix-React-App/static/js/main.5bc56bd3.chunk.js",
+    "main.js.map": "/https//PrasadParad.github.io/Netflix-React-App/static/js/main.5bc56bd3.chunk.js.map",
+    "runtime-main.js": "/https//PrasadParad.github.io/Netflix-React-App/static/js/runtime-main.33cc37b3.js",
+    "runtime-main.js.map": "/https//PrasadParad.github.io/Netflix-React-App/static/js/runtime-main.33cc37b3.js.map",
+    "static/js/2.971fdecd.chunk.js": "/https//PrasadParad.github.io/Netflix-React-App/static/js/2.971fdecd.chunk.js",
+    "static/js/2.971fdecd.chunk.js.map": "/https//PrasadParad.github.io/Netflix-React-App/static/js/2.971fdecd.chunk.js.map",
+    "index.html": "/https//PrasadParad.github.io/Netflix-React-App/index.html",
+    "static/css/main.c11c1b70.chunk.css.map": "/https//PrasadParad.github.io/Netflix-React-App/static/css/main.c11c1b70.chunk.css.map",
+    "static/js/2.971fdecd.chunk.js.LICENSE.txt": "/https//PrasadParad.github.io/Netflix-React-App/static/js/2.971fdecd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33cc37b3.js",
+    "static/js/2.971fdecd.chunk.js",
+    "static/css/main.c11c1b70.chunk.css",
+    "static/js/main.5bc56bd3.chunk.js"
+  ]
+}
